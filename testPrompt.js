@@ -10,5 +10,5 @@ for(let i = 0; i < size; i++){
     arr[i] = value;
 }
 
-console.log(arr)
+// console.log(arr)
 
